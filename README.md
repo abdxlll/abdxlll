@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman</h1>
-<h3 align="center">I'm a third year computer science student at Carleton University interested in Artificial Intelligence and Machine Learning</h3>
+<h3 align="center">I'm a third-year computer science student at Carleton University interested in Artificial Intelligence and Machine Learning</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
