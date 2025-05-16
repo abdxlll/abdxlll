@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman</h1>
-<h3 align="center">I'm a second year computer science student at Carleton university interested in AI/ML</h3>
+<h3 align="center">I'm a third-year computer science student at Carleton university interested in AI/ML</h3>
 
 - 👨‍💻 My Personal Portfolio Website [https://abdxlll.github.io/abdulrahmanodejayi-portfolio/](https://abdxlll.github.io/abdulrahmanodejayi-portfolio/)
 
